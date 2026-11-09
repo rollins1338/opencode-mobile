@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.0](https://github.com/beppe2880/opencode-mobile/compare/v0.12.0...v0.13.0) (2026-11-09)
+
+
+### Features
+
+* **chat:** Show images and files read by tools inline ([#164](https://github.com/beppe2880/opencode-mobile/issues/164)) ([44bba4f](https://github.com/beppe2880/opencode-mobile/commit/44bba4f922b2d66c387a5d79ed72d204dab420c4))
+
 ## [0.12.0](https://github.com/beppe2880/opencode-mobile/compare/v0.11.0...v0.12.0) (2026-11-09)
 
 
